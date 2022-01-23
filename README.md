@@ -72,4 +72,7 @@ you cal multiply all the elments : npArray *= integer
  
  The groupby() function is used to group our dataset by the given column. 
  
- 
+## Matplotlib
+
+plot()
+plot(kind="name of th ekind")
