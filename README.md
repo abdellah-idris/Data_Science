@@ -32,7 +32,7 @@ min() : the minimmum
 
 max() : the maximum
 
-you cal multiply all the elments : npArray *= integer
+you can multiply all the elments : npArray *= integer
 
  np.mean ()
  
